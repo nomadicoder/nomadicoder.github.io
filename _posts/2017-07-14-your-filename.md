@@ -2,6 +2,9 @@
 published: false
 youtube_id: '-T1TlY2Rf-Q'
 publish: true
+layout: post
+date: 2014-10-22T08:29:36.000Z
+categories: jekyll update
 ---
 ## A New Post
 
